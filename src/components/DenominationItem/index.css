@@ -1,0 +1,22 @@
+.card-list-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.btn {
+  color: #fff;
+  background-color: #382f5a;
+  border-radius: 5px;
+  height: autopx;
+  width: 300px;
+  font-size: 30px;
+  padding: 5px;
+  border: 1px solid #c4c4c4;
+  cursor: pointer;
+}
